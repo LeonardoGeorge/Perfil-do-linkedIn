@@ -1,4 +1,5 @@
 Leonardo George M. P. Dias
+
 Dev Front-end | TypeScript, JavaScript, Banco de Dados, Git/GitHub, HTML5 e CSS3 | React (Cursando)
 
 Sobre mim...
